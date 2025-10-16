@@ -24,7 +24,7 @@ body {
 button {
  width: 100%;
  padding: 10px;
- background-color: #563081ec;
+ background-color: #2f086d;
  color: #000;
  border: none;
  border-radius: 5px;
@@ -32,7 +32,7 @@ button {
  cursor: pointer;
 }
 button:hover {
- background-color: #00bfa5;
+ background-color: #500574;
 }
 #mensagem {
  margin-top: 10px;
